@@ -30,7 +30,7 @@
 
             System.out.println("\nPrinting objects after overriding toString():");
             System.out.println("R2 = " + R2);
-            Syste m.out.println("R3 = " + R3);
+            System.out.println("R3 = " + R3);
             
                 //  step 10
                     System.out.println("\nMutating public fields directly:");
